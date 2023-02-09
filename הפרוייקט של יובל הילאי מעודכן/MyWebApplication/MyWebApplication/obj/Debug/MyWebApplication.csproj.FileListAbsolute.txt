@@ -1,0 +1,576 @@
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\פרוייקט יא - יב חדש מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+F:\אלון שפת C\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+F:\אלון שפת C\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+F:\אלון שפת C\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+F:\אלון שפת C\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+F:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\אלון שפת C - יובל\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+E:\אלון שפת C - יובל\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\New folder\יובל - פרוייקט מעודכן לפסח\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\New folder\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\פרוייקט מעודכן לסוף החופש\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\מחשבים יב\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+D:\Yuval Hilay\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csproj.AssemblyReference.cache
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csproj.CopyComplete
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\Yuval\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\csc.exe
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\vbc.exe
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll.config
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.dll
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\MyWebApplication.pdb
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csproj.AssemblyReference.cache
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.csproj.CopyComplete
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.dll
+C:\Users\Yuval\Desktop\ראיון יובל\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\MyWebApplication\obj\Debug\MyWebApplication.pdb

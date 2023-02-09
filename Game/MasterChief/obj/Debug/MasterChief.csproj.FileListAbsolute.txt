@@ -1,0 +1,5 @@
+C:\Users\יובל\Desktop\23.12.2016 project\Game\MasterChief\bin\MasterChief.dll.config
+C:\Users\יובל\Desktop\23.12.2016 project\Game\MasterChief\bin\MasterChief.dll
+C:\Users\יובל\Desktop\23.12.2016 project\Game\MasterChief\bin\MasterChief.pdb
+C:\Users\יובל\Desktop\23.12.2016 project\Game\MasterChief\obj\Debug\MasterChief.dll
+C:\Users\יובל\Desktop\23.12.2016 project\Game\MasterChief\obj\Debug\MasterChief.pdb

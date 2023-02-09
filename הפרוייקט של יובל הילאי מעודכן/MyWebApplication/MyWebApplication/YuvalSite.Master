@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="YuvalSite.master.cs" Inherits="MyWebApplication.YuvalSite" %>
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <ul>
+                <li><a href="Default.aspx">Home</a></li>
+                <li><a href="PagesForVisitors/wfCatalog.aspx">Catalog</a></li>
+                <li><a href="PagesForVisitors/wfCart.aspx">My Cart</a></li>
+                <li><a href="PagesForVisitors/wfLogin.aspx">Login</a> </li>
+            </ul>
+            <style>
+                ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+                    height: 42px;
+                }
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
+          </style>
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

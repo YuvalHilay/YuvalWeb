@@ -1,0 +1,12 @@
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\bin\CalcWS.dll.config
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\bin\CalcWS.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\bin\CalcWS.pdb
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\obj\Debug\CalcWS.csprojResolveAssemblyReference.cache
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\obj\Debug\CalcWS.dll
+D:\Yuval Hilay\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\obj\Debug\CalcWS.pdb
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\bin\CalcWS.dll.config
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\bin\CalcWS.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\bin\CalcWS.pdb
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\obj\Debug\CalcWS.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\obj\Debug\CalcWS.dll
+C:\Users\יובל\Desktop\הפרוייקט מועדכן לחופש הגדול\MyWebApplication\CalcWS\obj\Debug\CalcWS.pdb

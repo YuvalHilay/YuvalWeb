@@ -1,0 +1,5 @@
+C:\Users\ort\Desktop\פרויקט ליאור ליחובצקי יב1\MyWebApplication\ClassLibraryLibDoQuerise\ClassLibraryLibDoQuerise\bin\Debug\ClassLibraryLibDoQuerise.dll
+C:\Users\ort\Desktop\פרויקט ליאור ליחובצקי יב1\MyWebApplication\ClassLibraryLibDoQuerise\ClassLibraryLibDoQuerise\bin\Debug\ClassLibraryLibDoQuerise.pdb
+C:\Users\ort\Desktop\פרויקט ליאור ליחובצקי יב1\MyWebApplication\ClassLibraryLibDoQuerise\ClassLibraryLibDoQuerise\obj\Debug\ClassLibraryLibDoQuerise.csprojResolveAssemblyReference.cache
+C:\Users\ort\Desktop\פרויקט ליאור ליחובצקי יב1\MyWebApplication\ClassLibraryLibDoQuerise\ClassLibraryLibDoQuerise\obj\Debug\ClassLibraryLibDoQuerise.dll
+C:\Users\ort\Desktop\פרויקט ליאור ליחובצקי יב1\MyWebApplication\ClassLibraryLibDoQuerise\ClassLibraryLibDoQuerise\obj\Debug\ClassLibraryLibDoQuerise.pdb

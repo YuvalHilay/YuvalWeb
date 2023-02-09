@@ -1,0 +1,223 @@
+﻿
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="mpMain.master.cs" Inherits="MyWebApplication.mpMain" %>
+
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style3 {
+            width: 226px;
+            }
+        .auto-style4 {
+            width: 1166px;
+            height: 690px;
+        }
+        .auto-style5 {
+            width: 1103px;
+            margin-top: 0px;
+        }
+        .auto-style6 {
+            width: 1165px;
+        }
+        .auto-style7 {
+            width: 1165px;
+            height: 304px;
+        }
+        .auto-style9 {
+            width: 1166px;
+            height: 513px;
+        }
+        .auto-style10 {
+            width: 1103px;
+            height: 721px;
+        }
+        .auto-style11 {
+            width: 226px;
+        }
+        .auto-style12 {
+            width: 1166px;
+            height: 91px;
+        }
+
+        .pos_0 {
+            height: 52px;
+            width: 1154px;
+        }
+
+    </style>
+</head>
+<body>
+    <form id="form2" runat="server">
+        <table class="auto-style1" style="background-image: url('/Images/General/2diq1pg.jpg'); background-repeat: repeat; background-attachment: fixed; height: 1050px; ">
+            <tr>
+                <td class="auto-style3" style="background-image: url('/Images/General/2diq1pg.jpg'); background-repeat: inherit; background-attachment: fixed;" rowspan="2" aria-busy="False">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder5" runat="server">
+                        <asp:Image ID="Image17" runat="server" Height="1075px" ImageUrl="~/Images/General/battlefield_1_soldiers_5k-HD (1).jpg"  Width="480px" ImageAlign="Baseline" style="margin-bottom: 7px" />
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td class="auto-style3" style="background-image: url('/Images/General/2diq1pg.jpg'); background-repeat: repeat;" rowspan="2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                        <p>
+                        </p>
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td class="auto-style12" style="background-image: url('/Images/General/2diq1pg.jpg'); background-repeat: repeat;">
+                    <asp:Label ID="txtFirstName" runat="server" style="color: #00FF00; font-weight: 700; font-size: large"></asp:Label>
+                    <asp:Label ID="txtLastName" runat="server" style="color: #00FF00; font-size: large; font-weight: 700"></asp:Label>
+                    <span class="auto-style11">&nbsp;<asp:Label ID="txtLevelName" runat="server" style="color: #FFFFFF; font-size: large; font-weight: 700"></asp:Label>
+                            <br />
+                            <asp:Menu ID="MenuVisitors" runat="server" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#7C6F57" Orientation="Horizontal" StaticSubMenuIndent="10px" style="font-size: x-large">
+                                    <DynamicHoverStyle BackColor="#FFFF00"   />
+                                    <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                    <DynamicMenuStyle BackColor="#F7F6F3" />
+                                
+                                    <DynamicSelectedStyle BackColor="#FFFF00" />
+                                <Items>
+                                    <asp:MenuItem NavigateUrl="~/Default.aspx" ImageUrl="~/Images/General/home.png"> </asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForVisitors/wfCatalog.aspx" ImageUrl="~/Images/General/1114.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForVisitors/wfCart.aspx" ImageUrl="~/Images/General/1115.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForVisitors/wfLogin.aspx" ImageUrl="~/Images/General/1116.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForVisitors/wfRegistration.aspx" ImageUrl="~/Images/General/1117.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForVisitors/Categories.aspx" ImageUrl="~/Images/General/1118.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForVisitors/wfManufacturers.aspx" ImageUrl="~/Images/General/1119.png"></asp:MenuItem>
+                                    <asp:MenuItem ImageUrl="~/Images/General/LEVEL6.png" NavigateUrl="~/PagesForVisitors/wfLevelsForVisitors.aspx"></asp:MenuItem>
+                                    <asp:MenuItem ImageUrl="~/Images/General/pbt.png" NavigateUrl="~/PagesForVisitors/ProductsByTags.aspx"></asp:MenuItem>
+                                </Items>
+                                 <StaticHoverStyle BackColor="#FFFF00"  />
+                                    <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                    <StaticSelectedStyle BackColor="#FFFF00" />
+                            </asp:Menu>
+                            <asp:Menu ID="MenuClients" runat="server" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#7C6F57" Orientation="Horizontal" StaticSubMenuIndent="10px" style="font-size: x-large">
+                                    <DynamicHoverStyle BackColor="#FFFF00"  />
+                                    <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                    <DynamicMenuStyle BackColor="#F7F6F3" />
+                                    <DynamicSelectedStyle BackColor="#FFFF00" />
+                                <Items>
+                                    <asp:MenuItem NavigateUrl="~/Default.aspx" ImageUrl="~/Images/General/home.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForVisitors/wfCatalog.aspx" ImageUrl="~/Images/General/1114.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForVisitors/wfCart.aspx" ImageUrl="~/Images/General/1115.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForClients/wfOrderList.aspx" ImageUrl="~/Images/General/1120.png"></asp:MenuItem>
+                                    <asp:MenuItem ImageUrl="~/Images/General/LEVEL6.png" NavigateUrl="~/PagesForVisitors/wfLevelsForVisitors.aspx"></asp:MenuItem>
+                                    <asp:MenuItem ImageUrl="~/Images/General/1118.png" NavigateUrl="~/PagesForVisitors/Categories.aspx"></asp:MenuItem>
+                                    <asp:MenuItem ImageUrl="~/Images/General/1119.png" NavigateUrl="~/PagesForVisitors/wfManufacturers.aspx"></asp:MenuItem>
+                                    <asp:MenuItem ImageUrl="~/Images/General/pbt.png" NavigateUrl="~/PagesForVisitors/ProductsByTags.aspx"></asp:MenuItem>
+                                    <asp:MenuItem ImageUrl="~/Images/General/details.png" NavigateUrl="~/PagesForClients/wfClientDetails.aspx"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/LogOut.aspx" ImageUrl="~/Images/General/logout3.png"></asp:MenuItem>
+                                </Items>
+                                <StaticHoverStyle BackColor="#FFFF00"  />
+                                    <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                    <StaticSelectedStyle BackColor="#5D7B9D" />
+                            </asp:Menu>
+                            <asp:Menu ID="MenuAdmins" runat="server" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#7C6F57" Orientation="Horizontal" StaticSubMenuIndent="10px" style="font-size: x-large">
+                                    <DynamicHoverStyle BackColor="#FFFF00"  />
+                                    <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                    <DynamicMenuStyle BackColor="#F7F6F3" />
+                                    <DynamicSelectedStyle BackColor="#FFFF00" />
+                                <Items>
+                                    <asp:MenuItem NavigateUrl="~/Default.aspx" ImageUrl="~/Images/General/home.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForVisitors/wfCatalog.aspx" ImageUrl="~/Images/adminmenu/Catalog2.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForAdmins/wfClientList.aspx" ImageUrl="~/Images/adminmenu/cl.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForAdmins/wfAdminList.aspx" ImageUrl="~/Images/adminmenu/adl.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForAdmins/wfViewOrders.aspx" ImageUrl="~/Images/adminmenu/ol.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForAdmins/wfAddProduct.aspx" ImageUrl="~/Images/adminmenu/adpro.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForAdmins/Catalog.aspx" ImageUrl="~/Images/adminmenu/up.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForAdmins/wfAdminsUpdate.aspx" ImageUrl="~/Images/adminmenu/ua.png"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/PagesForAdmins/wfViewOrdersPerPeriod.aspx" ImageUrl="~/Images/adminmenu/obd.png"></asp:MenuItem>
+                                    <asp:MenuItem ImageUrl="~/Images/adminmenu/status.png" NavigateUrl="~/PagesForAdmins/wfOrdersByDeliveryStatus.aspx"></asp:MenuItem>
+                                    <asp:MenuItem ImageUrl="~/Images/adminmenu/HP.png" NavigateUrl="~/PagesForAdmins/AdminHelp.aspx"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/LogOut.aspx" ImageUrl="~/Images/General/logout3.png"></asp:MenuItem>
+                                </Items>
+                                <StaticHoverStyle BackColor="#FFFF00"  />
+                                    <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                    <StaticSelectedStyle BackColor="#FFFF00" />
+                            </asp:Menu>
+                    </span></td>
+                <td class="auto-style6" style="background-image: url('/Images/General/2diq1pg.jpg'); background-repeat: repeat;" rowspan="2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder6" runat="server">
+                        <asp:Image ID="Image18" runat="server" Height="1175px" ImageUrl="~/Images/General/battlefield_1_soldiers_5k-HD.jpg" style="margin-right: 2px; margin-top: 0px" Width="478px" />
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style9" style=" background-image: url('/Images/General/2diq1pg.jpg'); background-repeat: repeat;"><table class="auto-style5" style="background-color: #000000; height: 433px; margin-left: 0px;">
+                    <tr>
+                        <td class="auto-style4" style="background-image: url('/Images/General/2diq1pg.jpg')">
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder4" runat="server">
+                                <table class="auto-style7">
+                                    <tr>
+                                        <td class="auto-style10" style="background-image: url('/Images/General/2diq1pg.jpg')">
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<br />
+                                            <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <br />
+                                            <br />
+                                            <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <br />
+                                            <div id="footer_group5" class="max-width-center">
+		
+				
+<!-- element_general_images -->
+                                                <div class="element_general_images  payments col-sm-6 col-xs-12">
+                                                    <div class="current_element_image image_id_72244 pos_0 ">
+                                                        <a>
+                                                        <asp:Image ID="Image27" runat="server" ImageUrl="~/Images/General/cooltext230716557782123.png" />
+                                                        &nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a>
+                                                        <img src="http://files-ptdpritol.netdna-ssl.com/system/photos/72244/original/55383b912d1a2277e87c9c8716d859ee.png" alt=""></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                    </div>
+                                                </div>
+<!-- end element_general_images -->
+
+
+		
+	                                        </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

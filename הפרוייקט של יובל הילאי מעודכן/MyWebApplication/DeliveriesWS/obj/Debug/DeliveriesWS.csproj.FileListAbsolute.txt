@@ -1,0 +1,8 @@
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\DeliveriesWS\bin\DeliveriesWS.dll.config
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\DeliveriesWS\bin\DeliveriesWS.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\DeliveriesWS\bin\DeliveriesWS.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\DeliveriesWS\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\DeliveriesWS\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\DeliveriesWS\obj\Debug\DeliveriesWS.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\DeliveriesWS\obj\Debug\DeliveriesWS.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי חדש\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\DeliveriesWS\obj\Debug\DeliveriesWS.pdb

@@ -1,0 +1,48 @@
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.csprojResolveAssemblyReference.cache
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll.config
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.pdb
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.pdb
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.dll
+C:\מחשבים יב\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.pdb
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll.config
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.pdb
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.pdb
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.csprojResolveAssemblyReference.cache
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.dll
+D:\Yuval Hilai\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.pdb
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll.config
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.pdb
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.pdb
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.csprojResolveAssemblyReference.cache
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.dll
+D:\YuvalHilay\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.pdb
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll.config
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.pdb
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.dll
+C:\Users\יובל\Desktop\23.12.2016 project\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.pdb
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll.config
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.pdb
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.dll
+C:\Users\יובל\Desktop\03022017\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll.config
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\CreditCardWS.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\bin\ClassLibraryLibDoQuerise.pdb
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.csprojResolveAssemblyReference.cache
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.dll
+C:\Users\יובל\Desktop\הפרוייקט של יובל הילאי מעודכן\הפרוייקט של יובל הילאי מעודכן\MyWebApplication\CreditCardWS\obj\Debug\CreditCardWS.pdb

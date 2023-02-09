@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="InsertDelivery">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="d" type="tns:Delivery" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Delivery">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="IDDelivery" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="IDStore" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="IDOrder" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="StatusDate" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustAddress" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustPhone" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Status" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertDeliveryResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertDeliveryResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDeliveryStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="d" type="tns:Delivery" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDeliveryStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetDeliveryStatusResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetStoreDeliveriesByStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idStore" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="status" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetStoreDeliveriesByStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetStoreDeliveriesByStatusResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="InsertDeliverySoapIn">
+    <wsdl:part name="parameters" element="tns:InsertDelivery" />
+  </wsdl:message>
+  <wsdl:message name="InsertDeliverySoapOut">
+    <wsdl:part name="parameters" element="tns:InsertDeliveryResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetDeliveryStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:GetDeliveryStatus" />
+  </wsdl:message>
+  <wsdl:message name="GetDeliveryStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDeliveryStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetStoreDeliveriesByStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:GetStoreDeliveriesByStatus" />
+  </wsdl:message>
+  <wsdl:message name="GetStoreDeliveriesByStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:GetStoreDeliveriesByStatusResponse" />
+  </wsdl:message>
+  <wsdl:portType name="DeliveriesWSSoap">
+    <wsdl:operation name="InsertDelivery">
+      <wsdl:input message="tns:InsertDeliverySoapIn" />
+      <wsdl:output message="tns:InsertDeliverySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDeliveryStatus">
+      <wsdl:input message="tns:GetDeliveryStatusSoapIn" />
+      <wsdl:output message="tns:GetDeliveryStatusSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStoreDeliveriesByStatus">
+      <wsdl:input message="tns:GetStoreDeliveriesByStatusSoapIn" />
+      <wsdl:output message="tns:GetStoreDeliveriesByStatusSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="DeliveriesWSSoap" type="tns:DeliveriesWSSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertDelivery">
+      <soap:operation soapAction="http://tempuri.org/InsertDelivery" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDeliveryStatus">
+      <soap:operation soapAction="http://tempuri.org/GetDeliveryStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStoreDeliveriesByStatus">
+      <soap:operation soapAction="http://tempuri.org/GetStoreDeliveriesByStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="DeliveriesWSSoap12" type="tns:DeliveriesWSSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertDelivery">
+      <soap12:operation soapAction="http://tempuri.org/InsertDelivery" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDeliveryStatus">
+      <soap12:operation soapAction="http://tempuri.org/GetDeliveryStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStoreDeliveriesByStatus">
+      <soap12:operation soapAction="http://tempuri.org/GetStoreDeliveriesByStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DeliveriesWS">
+    <wsdl:port name="DeliveriesWSSoap" binding="tns:DeliveriesWSSoap">
+      <soap:address location="http://localhost:49368/WSDeliveries.asmx" />
+    </wsdl:port>
+    <wsdl:port name="DeliveriesWSSoap12" binding="tns:DeliveriesWSSoap12">
+      <soap12:address location="http://localhost:49368/WSDeliveries.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

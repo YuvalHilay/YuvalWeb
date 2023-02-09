@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Siml>
+  <!--Map: Transforms the element of one set into an element of another.-->
+  <Map Name="2ndPerson">
+    <MapItem Content="you are" Value="i am" />
+    <MapItem Content="i am" Value="you are" />
+    <MapItem Content="you" Value="me" />
+    <MapItem Content="me" Value="you" />
+    <MapItem Content="your" Value="my" />
+  </Map>
+</Siml>

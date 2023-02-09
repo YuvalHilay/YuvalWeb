@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Siml>
+  <Concept Name="Don't Repeat" Type="Public" Repeat="False">
+    <Model>
+      <Pattern>WHERE IS THE MILLION DOLLAR HIGHWAY</Pattern>
+      <Response>It's in Colorado.</Response>
+    </Model>
+
+  </Concept>
+</Siml>

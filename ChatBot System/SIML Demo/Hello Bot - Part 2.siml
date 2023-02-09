@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Siml>
+  <Concept Name="Hello Bot - Part 2" Type="Public" Repeat="True">
+    <Model>
+      <Pattern>DEFINE *</Pattern>
+      <Response>Let me search the dictionary for the word <Match />...</Response>
+    </Model>
+
+    <Model>
+      <Pattern>
+        <Item>WHAT IS THE MEANING OF THE WORD *</Item>
+        <Item>WHAT DOES * MEAN</Item>
+      </Pattern>
+      <Response>
+        <Goto>Define <Match /></Goto>
+      </Response>
+    </Model>
+
+    <Model>
+      <Pattern>CAN YOU *</Pattern>
+      <Response>Yes I can. <GotoMatch /></Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT ARE YOU UPTO</Pattern>
+      <Response>Just chatting with users.</Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT DID I SAY</Pattern>
+      <Response>You said "<Request />"</Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT DID I JUST SAY</Pattern>
+      <Response>You said "<Input />"</Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT WAS THE FIRST THING I SAID</Pattern>
+      <Response>You said "<Input Index="2" />"</Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT DID YOU SAY</Pattern>
+      <Response>I said "<Result />"</Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT DID YOU JUST SAY</Pattern>
+      <Response>I said "<Output />"</Response>
+    </Model>
+
+    <!--<Model>
+      <Pattern>AM I OLD ENOUGH</Pattern>
+      <Response>
+        <If User="age" Value="18">Yes you are!</If>
+        <ElseIf User="age" GreaterThan="18">You are more than 18 years old. So why not.</ElseIf>
+        <Else>I am not sure enough.</Else>
+      </Response>
+    </Model>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+    <Model>
+      <Pattern>AM I OLD ENOUGH</Pattern>
+      <Response>
+        <Switch User="age">
+          <Case Value="18">Yes you are!</Case>
+          <Case GreaterThan="18">You are more than 18 years old. So why not.</Case>
+          <Default>I am not sure enough.</Default>
+        </Switch>
+      </Response>
+    </Model>
+
+    <Model>
+      <Pattern>REPEAT * * TIMES</Pattern>
+      <Response>
+        <Think>
+          <Var Set="num">
+            <Match Index="2" />
+          </Var>
+        </Think>
+        <While Var="num" GreaterThan="0">
+          <Match />
+          <Bot Get="space" />
+          <Think>
+            <Var Set="num">
+              <Math Get="decrement">
+                <Var Get="num" />
+              </Math>
+            </Var>
+          </Think>
+        </While>
+      </Response>
+    </Model>
+
+    <Model>
+      <Pattern>A TOMATO IS A *</Pattern>
+      <Response>
+        <Remember>
+          <Model>
+            <Pattern>What is a tomato</Pattern>
+            <Response>A tomato is a <Process><Match /></Process></Response>
+          </Model>
+
+        </Remember>
+         Alright I'll remember that a tomato is a <Match /></Response>
+    </Model>
+
+    <Model>
+      <Pattern>THE SUN IS A *</Pattern>
+      <Response>
+        <Learn>
+          <Model>
+            <Pattern>What is the sun</Pattern>
+            <Response>The sun is a <Process><Match /></Process></Response>
+          </Model>
+
+        </Learn>
+         Alright I have now learnt that a Sun is a <Match />.
+      </Response>
+    </Model>
+
+    <Model>
+      <Pattern>CHANGE TEXT TO *</Pattern>
+      <Response>
+        <Define Key="{0}">
+          <Match />
+        </Define>
+        "<Text Get="{0}">{0}</Text>"
+      </Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT IS THE FACTORIAL OF *</Pattern>
+      <Response>
+        <Js>fact(<Match />);</Js>
+      </Response>
+    </Model>
+
+  </Concept>
+</Siml>

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Siml>
+  <Concept Type="public" Name="Hello Bot">
+    <Model>
+      <Pattern>HELLO BOT</Pattern>
+      <Response>Hello User!</Response>
+    </Model>
+
+    <Model>
+      <Pattern>
+        <Item>HELLO THERE</Item>
+        <Item>HI</Item>
+        <Item>HOLA</Item>
+        <Item>HI</Item>
+      </Pattern>
+      <Response>Hi there!</Response>
+    </Model>
+
+    <Model>
+      <Pattern>DO YOU LIKE (BACON|PANCAKE)</Pattern>
+      <Response>Yes I love <Match /></Response>
+    </Model>
+
+    <Model>
+      <Pattern>MY FAVOURITE COLOR IS [COLOR]</Pattern>
+      <Response>I see so you like the color <Match />.</Response>
+    </Model>
+
+    <Model>
+      <Pattern>I AM @NUMBER YEARS OLD</Pattern>
+      <Response>
+        <Match /> years is good enough. <Think><User Set="age"><Match /></User></Think></Response>
+    </Model>
+
+    <Model>
+      <Pattern>ARE YOU *</Pattern>
+      <Response>I am not sure if I am <Match /></Response>
+    </Model>
+
+    <Model>
+      <Pattern>HOW ARE YOU $</Pattern>
+      <Response>I am fine thank you!</Response>
+    </Model>
+
+    <Model>
+      <Pattern>{PLAY MUSIC}</Pattern>
+      <Response>Playing music.</Response>
+    </Model>
+
+    <Model>
+      <Pattern>START JAVASCRIPT</Pattern>
+      <Response>
+        <Js>test();</Js>
+      </Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT IS YOUR NAME</Pattern>
+      <Response>My name is <Bot Get="NAME" /></Response>
+    </Model>
+
+    <Model>
+      <Pattern>CHANGE YOUR NAME TO *</Pattern>
+      <Response>Alright my name is now <Bot Set="NAME"><Match /></Bot></Response>
+    </Model>
+
+    <Model>
+      <Pattern>MY NAME IS *</Pattern>
+      <Response>Alright I will remember your name <User Set="NAME"><Match /></User></Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT IS UP</Pattern>
+      <Response>The sky.</Response>
+    </Model>
+
+    <Model>
+      <Pattern>I THINK * AWESOME</Pattern>
+      <Response>Yes <Map Get="2ndPerson"><Match /></Map> awesome.</Response>
+    </Model>
+
+    <Model>
+      <Pattern>
+        <Item>DO YOU LIKE CUPCAKES</Item>
+        <Item>DO YOU LOVE CUPCAKES</Item>
+        <Item>DO YOU WANT CUPCAKES</Item>
+      </Pattern>
+      <Response>
+        <Phrase>
+          <Item>I do like cupcakes</Item>
+          <Item>Yes I love cupcakes</Item>
+          <Item>I do want cupcakes</Item>
+        </Phrase>
+      </Response>
+    </Model>
+
+    <Model>
+      <Pattern>CALCULATE *</Pattern>
+      <Response>The answer is <Math><Match /></Math></Response>
+    </Model>
+
+    <Model>
+      <Pattern>CHANGE * TO UPPERCASE</Pattern>
+      <Response>
+        <Text Get="Uppercase">
+          <Match />
+        </Text>
+      </Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT DAY IS IT</Pattern>
+      <Response>It's <Date Get="weekday" /></Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT YEAR IS IT</Pattern>
+      <Response>It's <Date Get="year" /></Response>
+    </Model>
+
+    <Model>
+      <Pattern>WHAT ERA IS IT</Pattern>
+      <Response>It's <Date Format="gg" /></Response>
+    </Model>
+
+    <Model>
+      <Pattern>CLOSE APPLICATION</Pattern>
+      <Response>Are you sure?</Response>
+      <Model>
+        <Pattern>Yes</Pattern>
+        <Response>Application closed.</Response>
+      </Model>
+
+      <Model>
+        <Pattern>No</Pattern>
+        <Response>Application shutdown cancelled.</Response>
+      </Model>
+
+    </Model>
+
+    <Model>
+      <Pattern>PLAY MUSIC</Pattern>
+      <Response>Playing music.</Response>
+    </Model>
+
+    <Model>
+      <Pattern>MAKE IT LOUD</Pattern>
+      <Response>Volume increased.</Response>
+    </Model>
+
+    <Model>
+      <Pattern>RESTART COMPUTER</Pattern>
+      <Response>
+        <Random>
+          <Item>Are you sure Sir?</Item>
+          <Item>Shall I restart the Computer now?</Item>
+          <Item>Say yes if you wish to restart your computer now.</Item>
+          <Item>Please confirm that you intend to restart your computer</Item>
+        </Random>
+        <Label>computer-restart:</Label>
+      </Response>
+    </Model>
+
+    <Model>
+      <Pattern>YES</Pattern>
+      <Previous>computer-restart:</Previous>
+      <Response>Restarting computer. Please Standby..</Response>
+    </Model>
+
+  </Concept>
+</Siml>

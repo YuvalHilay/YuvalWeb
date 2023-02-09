@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<simlproject>
+  <name>SIML Chatbot Demo</name>
+  <directory>SIML Demo</directory>
+  <botname>Sarah</botname>
+  <personality>Test Bot</personality>
+  <author>AI Developer</author>
+  <description>Integration of an SIML Chatbot in a C# Application using SynBot NuGet package.</description>
+  <date>10:35:29 PM, Saturday, January 17, 2015</date>
+</simlproject>

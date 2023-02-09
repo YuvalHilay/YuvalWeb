@@ -1,0 +1,636 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{64D09B21-E228-471B-A09C-E3F5F46E9976}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MyWebApplication</RootNamespace>
+    <AssemblyName>MyWebApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClassLibraryLibDoQuerise">
+      <HintPath>..\..\ClassLibraryLibDoQuerise\ClassLibraryLibDoQuerise\bin\Debug\ClassLibraryLibDoQuerise.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Calendar.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Images\adminmenu\adl.png" />
+    <Content Include="Images\adminmenu\adpro.png" />
+    <Content Include="Images\adminmenu\Catalog2.png" />
+    <Content Include="Images\adminmenu\cl.png" />
+    <Content Include="Images\adminmenu\HP.png" />
+    <Content Include="Images\adminmenu\obd.png" />
+    <Content Include="Images\adminmenu\ol.png" />
+    <Content Include="Images\adminmenu\status.png" />
+    <Content Include="Images\adminmenu\ua.png" />
+    <Content Include="Images\adminmenu\up.png" />
+    <Content Include="Images\battlefield-1-game-wallpaper.jpg" />
+    <Content Include="Images\Categories\xboxonegames.png" />
+    <Content Include="Images\fifa17wallpaper.jpg" />
+    <Content Include="Images\fifa23.jpg">
+      <BrowseToURL>http://files-ptdpritol.netdna-ssl.com/system/photos/72236/original/965d28e8a137d2dcfd87b6f9ce0b7804.jpg</BrowseToURL>
+    </Content>
+    <Content Include="Images\gearsofwar4.jpg" />
+    <Content Include="Images\General\1120.png" />
+    <Content Include="Images\General\1114.png" />
+    <Content Include="Images\General\1115.png" />
+    <Content Include="Images\General\1116.png" />
+    <Content Include="Images\General\1117.png" />
+    <Content Include="Images\General\1118.png" />
+    <Content Include="Images\General\1119.png" />
+    <Content Include="Images\General\1121.png" />
+    <Content Include="Images\General\1122.png" />
+    <Content Include="Images\General\1123.png" />
+    <Content Include="Images\General\1124.png" />
+    <Content Include="Images\General\1125.png" />
+    <Content Include="Images\General\1126.png" />
+    <Content Include="Images\General\1127.png" />
+    <Content Include="Images\General\2diq1pg.jpg" />
+    <Content Include="Images\General\battlefield-1-game-wallpaper.jpg" />
+    <Content Include="Images\General\battlefield_1_soldiers_5k-HD %281%29.jpg" />
+    <Content Include="Images\General\battlefield_1_soldiers_5k-HD.jpg" />
+    <Content Include="Images\General\BlueSquareButton.png" />
+    <Content Include="Images\General\clientlist.png" />
+    <Content Include="Images\General\cooltext223101363545641 %281%29.png" />
+    <Content Include="Images\General\cooltext230716557782123.png" />
+    <Content Include="Images\General\cooltext243771961713197.png" />
+    <Content Include="Images\General\details.png" />
+    <Content Include="Images\General\fifa17wallpaper.jpg" />
+    <Content Include="Images\General\gearsofwar4.jpg" />
+    <Content Include="Images\General\god_of_war_4_wallpaper_hd_5_by_sonicx2011-da9eqqr.jpg" />
+    <Content Include="Images\General\home.png" />
+    <Content Include="Images\General\homepage.png" />
+    <Content Include="Images\General\ICON2.jpg" />
+    <Content Include="Images\General\ICON3.jpg" />
+    <Content Include="Images\General\ICON4.jpg" />
+    <Content Include="Images\General\images.jpg" />
+    <Content Include="Images\General\jostick.png" />
+    <Content Include="Images\General\joy1.jpg" />
+    <Content Include="Images\General\LEVEL6.png" />
+    <Content Include="Images\General\Loading.gif" />
+    <Content Include="Images\General\logo.jpg" />
+    <Content Include="Images\General\LOGOUT.jpg" />
+    <Content Include="Images\General\logout3.png" />
+    <Content Include="Images\General\mafia3.jpg" />
+    <Content Include="Images\General\nba2k17.jpg" />
+    <Content Include="Images\General\objects-joystick-icon.png" />
+    <Content Include="Images\General\pbt.png" />
+    <Content Include="Images\General\signout.jpg" />
+    <Content Include="Images\General\status.png" />
+    <Content Include="Images\General\status2.png" />
+    <Content Include="Images\General\xbox-one2.jpg" />
+    <Content Include="Images\god_of_war_4_wallpaper_hd_5_by_sonicx2011-da9eqqr.jpg" />
+    <Content Include="Images\icons\PC.jpg" />
+    <Content Include="Images\icons\PS3.jpg" />
+    <Content Include="Images\icons\PS4.jpg" />
+    <Content Include="Images\icons\SearchButton.jpg" />
+    <Content Include="Images\icons\WII.jpg" />
+    <Content Include="Images\icons\XBOX360.jpg" />
+    <Content Include="Images\icons\XBOXONE.jpg" />
+    <Content Include="Images\mafia3.jpg" />
+    <Content Include="Images\Manufacturers\sony1.png" />
+    <Content Include="Images\nba2k23.jpg" />
+    <Content Include="Images\Pegis\pegi16.png" />
+    <Content Include="Images\Pegis\pegi18.jpg" />
+    <Content Include="Images\Pegis\Pegi3.png" />
+    <Content Include="Images\Pegis\pegi7.png" />
+    <Content Include="Images\Pegis\PEGI_12.png" />
+    <Content Include="Images\Products\noImage.png" />
+    <Content Include="Images\watch-dog2.png" />
+    <Content Include="Images\xbox-one2.jpg" />
+    <Content Include="ListBox.aspx" />
+    <Content Include="Loading.aspx" />
+    <Content Include="LogOut.aspx" />
+    <Content Include="packages.config" />
+    <Content Include="mpMain.Master" />
+    <Content Include="PagesForAdmins\AdminHelp.aspx" />
+    <Content Include="PagesForAdmins\Catalog.aspx" />
+    <Content Include="PagesForAdmins\wfAddProduct.aspx" />
+    <Content Include="PagesForAdmins\wfAdminDetails.aspx" />
+    <Content Include="PagesForAdmins\wfAdminList.aspx" />
+    <Content Include="PagesForAdmins\wfAdminPage.aspx" />
+    <Content Include="PagesForAdmins\wfAdminsUpdate.aspx" />
+    <Content Include="PagesForAdmins\wfClientList.aspx" />
+    <Content Include="PagesForAdmins\wfListOfRequirements.aspx" />
+    <Content Include="PagesForAdmins\wfOrdersByDeliveryStatus.aspx" />
+    <Content Include="PagesForAdmins\wfUpdateProduct.aspx" />
+    <Content Include="PagesForAdmins\wfViewOrders.aspx" />
+    <Content Include="PagesForAdmins\wfViewOrdersPerPeriod.aspx" />
+    <Content Include="PagesForClients\wfClientDetails.aspx" />
+    <Content Include="PagesForClients\wfLevels.aspx" />
+    <Content Include="PagesForClients\wfOrderDetails.aspx" />
+    <Content Include="PagesForClients\wfOrderList.aspx" />
+    <Content Include="PagesForClients\wfPayment.aspx" />
+    <Content Include="PagesForClients\WhereToDeliver.aspx" />
+    <Content Include="PagesForVisitors\Categories.aspx" />
+    <Content Include="PagesForVisitors\ProductsByTags.aspx" />
+    <Content Include="PagesForVisitors\wfCart.aspx" />
+    <Content Include="PagesForVisitors\wfLevelsForVisitors.aspx" />
+    <Content Include="PagesForVisitors\wfLogin.aspx" />
+    <Content Include="PagesForVisitors\wfManufacturers.aspx" />
+    <Content Include="PagesForVisitors\wfProductPage.aspx" />
+    <Content Include="ClassDiagram4.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\ProxyCalc\CalcService.disco" />
+    <Content Include="PagesForVisitors\wfProductsByCategory.aspx" />
+    <Content Include="PagesForVisitors\wfProductsByManufacturers.aspx" />
+    <Content Include="Web References\ProxyCreditCard\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </Content>
+    <None Include="Web References\ProxyCreditCard\wsCreditCardService.disco" />
+    <Content Include="Web References\ProxyDeliveries\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </Content>
+    <None Include="Web References\ProxyCreditCard\wsCreditCardService.wsdl" />
+    <None Include="Web References\ProxyDeliveries\WSDeliveries.disco" />
+    <Content Include="wfCalc.aspx" />
+    <Content Include="PagesForVisitors\wfCatalog.aspx" />
+    <None Include="Web References\ProxyCalc\CalcService.wsdl" />
+    <None Include="Web References\ProxyCalc\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\ProxyDeliveries\WSDeliveries.wsdl" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="YuvalDefult.aspx" />
+    <Content Include="YuvalSite.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\ShopDB.accdb" />
+    <Content Include="Images\Categories\CONS.jpg" />
+    <Content Include="Images\Categories\PCgames.png" />
+    <Content Include="Images\Categories\PS4.png" />
+    <Content Include="Images\Manufacturers\easp.jpg" />
+    <Content Include="Images\Manufacturers\MICRO3.png" />
+    <Content Include="Images\Manufacturers\rockstarp.png" />
+    <Content Include="Images\Products\fifa15pc.jpg" />
+    <Content Include="Images\Products\fifa16ps4.jpg" />
+    <Content Include="Images\Products\GTAVPC.jpg" />
+    <Content Include="Images\Products\GTAVPS4.jpg" />
+    <Content Include="Images\Products\PS4CONS.jpg" />
+    <Content Include="Images\Products\xboxONE.jpg" />
+    <Content Include="PagesForVisitors\wfRegistration.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Calendar.aspx.cs">
+      <DependentUpon>Calendar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Calendar.aspx.designer.cs">
+      <DependentUpon>Calendar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Connect.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\Admin.cs" />
+    <Compile Include="Entities\Category.cs" />
+    <Compile Include="Entities\Class1.cs" />
+    <Compile Include="Entities\Client.cs" />
+    <Compile Include="Entities\Levels.cs" />
+    <Compile Include="Entities\Manufacturers.cs" />
+    <Compile Include="Entities\Order.cs" />
+    <Compile Include="Entities\Pegis.cs" />
+    <Compile Include="Entities\Product.cs" />
+    <Compile Include="Entities\Requirements.cs" />
+    <Compile Include="Entities\ShoppingBags.cs" />
+    <Compile Include="Entities\Tag.cs" />
+    <Compile Include="ListBox.aspx.cs">
+      <DependentUpon>ListBox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListBox.aspx.designer.cs">
+      <DependentUpon>ListBox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.aspx.cs">
+      <DependentUpon>Loading.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Loading.aspx.designer.cs">
+      <DependentUpon>Loading.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LogOut.aspx.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LogOut.aspx.designer.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mpMain.Master.cs">
+      <DependentUpon>mpMain.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mpMain.Master.designer.cs">
+      <DependentUpon>mpMain.Master</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\AdminHelp.aspx.cs">
+      <DependentUpon>AdminHelp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\AdminHelp.aspx.designer.cs">
+      <DependentUpon>AdminHelp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\Catalog.aspx.cs">
+      <DependentUpon>Catalog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\Catalog.aspx.designer.cs">
+      <DependentUpon>Catalog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfAddProduct.aspx.cs">
+      <DependentUpon>wfAddProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfAddProduct.aspx.designer.cs">
+      <DependentUpon>wfAddProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfAdminDetails.aspx.cs">
+      <DependentUpon>wfAdminDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfAdminDetails.aspx.designer.cs">
+      <DependentUpon>wfAdminDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfAdminList.aspx.cs">
+      <DependentUpon>wfAdminList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfAdminList.aspx.designer.cs">
+      <DependentUpon>wfAdminList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfAdminPage.aspx.cs">
+      <DependentUpon>wfAdminPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfAdminPage.aspx.designer.cs">
+      <DependentUpon>wfAdminPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfAdminsUpdate.aspx.cs">
+      <DependentUpon>wfAdminsUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfAdminsUpdate.aspx.designer.cs">
+      <DependentUpon>wfAdminsUpdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfClientList.aspx.cs">
+      <DependentUpon>wfClientList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfClientList.aspx.designer.cs">
+      <DependentUpon>wfClientList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfListOfRequirements.aspx.cs">
+      <DependentUpon>wfListOfRequirements.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfListOfRequirements.aspx.designer.cs">
+      <DependentUpon>wfListOfRequirements.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfOrdersByDeliveryStatus.aspx.cs">
+      <DependentUpon>wfOrdersByDeliveryStatus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfOrdersByDeliveryStatus.aspx.designer.cs">
+      <DependentUpon>wfOrdersByDeliveryStatus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfUpdateProduct.aspx.cs">
+      <DependentUpon>wfUpdateProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfUpdateProduct.aspx.designer.cs">
+      <DependentUpon>wfUpdateProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfViewOrders.aspx.cs">
+      <DependentUpon>wfViewOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfViewOrders.aspx.designer.cs">
+      <DependentUpon>wfViewOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfViewOrdersPerPeriod.aspx.cs">
+      <DependentUpon>wfViewOrdersPerPeriod.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForAdmins\wfViewOrdersPerPeriod.aspx.designer.cs">
+      <DependentUpon>wfViewOrdersPerPeriod.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForClients\wfClientDetails.aspx.cs">
+      <DependentUpon>wfClientDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForClients\wfClientDetails.aspx.designer.cs">
+      <DependentUpon>wfClientDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForClients\wfLevels.aspx.cs">
+      <DependentUpon>wfLevels.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForClients\wfLevels.aspx.designer.cs">
+      <DependentUpon>wfLevels.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForClients\wfOrderDetails.aspx.cs">
+      <DependentUpon>wfOrderDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForClients\wfOrderDetails.aspx.designer.cs">
+      <DependentUpon>wfOrderDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForClients\wfOrderList.aspx.cs">
+      <DependentUpon>wfOrderList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForClients\wfOrderList.aspx.designer.cs">
+      <DependentUpon>wfOrderList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForClients\wfPayment.aspx.cs">
+      <DependentUpon>wfPayment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForClients\wfPayment.aspx.designer.cs">
+      <DependentUpon>wfPayment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForClients\WhereToDeliver.aspx.cs">
+      <DependentUpon>WhereToDeliver.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForClients\WhereToDeliver.aspx.designer.cs">
+      <DependentUpon>WhereToDeliver.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForVisitors\Categories.aspx.cs">
+      <DependentUpon>Categories.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\Categories.aspx.designer.cs">
+      <DependentUpon>Categories.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForVisitors\ProductsByTags.aspx.cs">
+      <DependentUpon>ProductsByTags.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\ProductsByTags.aspx.designer.cs">
+      <DependentUpon>ProductsByTags.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfCart.aspx.cs">
+      <DependentUpon>wfCart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfCart.aspx.designer.cs">
+      <DependentUpon>wfCart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfLevelsForVisitors.aspx.cs">
+      <DependentUpon>wfLevelsForVisitors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfLevelsForVisitors.aspx.designer.cs">
+      <DependentUpon>wfLevelsForVisitors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfManufacturers.aspx.cs">
+      <DependentUpon>wfManufacturers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfManufacturers.aspx.designer.cs">
+      <DependentUpon>wfManufacturers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfProductPage.aspx.cs">
+      <DependentUpon>wfProductPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfProductPage.aspx.designer.cs">
+      <DependentUpon>wfProductPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfProductsByCategory.aspx.cs">
+      <DependentUpon>wfProductsByCategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfProductsByCategory.aspx.designer.cs">
+      <DependentUpon>wfProductsByCategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfProductsByManufacturers.aspx.cs">
+      <DependentUpon>wfProductsByManufacturers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfProductsByManufacturers.aspx.designer.cs">
+      <DependentUpon>wfProductsByManufacturers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfRegistration.aspx.cs">
+      <DependentUpon>wfRegistration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfRegistration.aspx.designer.cs">
+      <DependentUpon>wfRegistration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PagesForVisitors\wfLogin.aspx.cs">
+      <DependentUpon>wfLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfLogin.aspx.designer.cs">
+      <DependentUpon>wfLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\ProxyCalc\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\ProxyCreditCard\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\ProxyDeliveries\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="wfCalc.aspx.cs">
+      <DependentUpon>wfCalc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wfCalc.aspx.designer.cs">
+      <DependentUpon>wfCalc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfCatalog.aspx.cs">
+      <DependentUpon>wfCatalog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesForVisitors\wfCatalog.aspx.designer.cs">
+      <DependentUpon>wfCatalog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YuvalDefult.aspx.cs">
+      <DependentUpon>YuvalDefult.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YuvalDefult.aspx.designer.cs">
+      <DependentUpon>YuvalDefult.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YuvalSite.Master.cs">
+      <DependentUpon>YuvalSite.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YuvalSite.Master.designer.cs">
+      <DependentUpon>YuvalSite.Master</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost:49262/CalcService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\ProxyCalc\</RelPath>
+      <UpdateFromURL>http://localhost:49262/CalcService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>MyWebApplication_ProxyCalc_CalcService</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:49368/WSDeliveries.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\ProxyDeliveries\</RelPath>
+      <UpdateFromURL>http://localhost:49368/WSDeliveries.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>MyWebApplication_ProxyDeliveries_DeliveriesWS</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:49777/wsCreditCardService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\ProxyCreditCard\</RelPath>
+      <UpdateFromURL>http://localhost:49777/wsCreditCardService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>MyWebApplication_ProxyCreditCard_wsCreditCardService</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49921</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49997/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
